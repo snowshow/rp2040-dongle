@@ -54,3 +54,4 @@ Parts taken and modified from TinyUSB (`tusb_config.h`, `usb_descriptors.c`) is:
 
      * The MIT License (MIT)
      * Copyright (c) 2019 Ha Thach (tinyusb.org)
+
